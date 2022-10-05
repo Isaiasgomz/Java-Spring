@@ -1,6 +1,7 @@
 package com.platzimarket.domain.repository;
 
 import com.platzimarket.domain.Purchase;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 import java.util.Optional;
